@@ -1,0 +1,16 @@
+<?php 
+
+$teamURL = dirname($_SERVER['PHP_SELF']) . DIRECTORY_SEPARATOR;
+$server_root = dirname($_SERVER['PHP_SELF']);
+
+$dbhost = "localhost"; 
+$dbname = "username";  
+$dbuser = "user"; 
+$dbpass = "password"; 
+$db = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
+
+if($db->connect_error > 0)
+{
+    die('Unable to connect to database [' . $db->connect_error . ']');
+}
+?>
