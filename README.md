@@ -2,7 +2,7 @@
 
 ![Project Image](https://i.ibb.co/2Z3JyyB/Incentiv-Sales-img.png)
 
-> Welcome to my Automated Attendance System Project repository. 
+> Welcome to my IncentivSales Web Application project repository. 
 
 ---
 
