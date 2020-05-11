@@ -1,6 +1,6 @@
 # IncentivSales-WebApplication
 
-![Project Image](https://drive.google.com/open?id=13gXQ2ilT-RozzPNbWtbJaZzq_sBJq67e)
+![Project Image](https://i.ibb.co/2Z3JyyB/Incentiv-Sales-img.png)
 
 > Welcome to my Automated Attendance System Project repository. 
 
